@@ -1,0 +1,9 @@
+[Unit]
+Description=Frames Unlock Animation Listener
+After=graphical-session.target
+[Service]
+ExecStart=/bin/bash %h/.local/share/frames-unlock-animation/run_animation.sh 
+Restart=always
+[Install]
+WantedBy=default.target
+# this file belongs to /home/{your_username}/.config/systemd/user
