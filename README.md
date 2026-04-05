@@ -2,6 +2,10 @@
 
 A GNOME desktop enhancement that plays frame-based animations on screen unlock, using systemd and gsettings.
 
+## Demo
+
+[![Watch Demo](https://img.youtube.com/vi/2zU_PhI7RyU/maxresdefault.jpg)](https://youtu.be/2zU_PhI7RyU)
+
 ---
 
 ## How it works
