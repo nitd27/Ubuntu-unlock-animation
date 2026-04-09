@@ -4,7 +4,7 @@ A GNOME desktop enhancement that plays frame-based animations on screen unlock, 
 
 ## Demo
 
-[![Watch Demo](thumbnail.png)](https://youtu.be/2zU_PhI7RyU)
+[![Watch how it looks when it's working](thumbnail.png)](https://youtu.be/2zU_PhI7RyU)
 
 ---
 
