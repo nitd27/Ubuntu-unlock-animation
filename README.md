@@ -1,6 +1,6 @@
 # Frames Unlock Animation
 
-A GNOME desktop enhancement that plays frame-based animations on screen unlock, using systemd and gsettings.
+A GNOME desktop enhancement that can play any animation as wallpaper, completely frame-based, plays whenever screen unlocks, using systemd and gsettings.
 
 ## Demo
 
