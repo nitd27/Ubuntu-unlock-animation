@@ -54,8 +54,8 @@ FRAME_DIR = os.path.join(os.path.dirname(__file__), "frames", "Miku-eye-frames")
 
 Replace `Miku-eye-frames` with the name of any folder inside `frames/`.
 
-To add your own animation, place a folder of sequentially named `.jpg` or `.png` images inside the `frames/` directory.
-To make your own custom animation, upload that animation's video to ezgif video to frames tool, get the output in a folder, and place it inside `frames/` then update the code.
+To add your own animation, place a folder of sequentially named `.jpg` or `.png` images inside the `frames/` directory. To make your own custom animation, upload that animation's video to ezgif video to frames tool, get the output in a folder, and place it inside `frames/` then update the code.
+
 ---
 
 ## Available animations
