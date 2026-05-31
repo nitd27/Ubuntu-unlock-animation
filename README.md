@@ -27,7 +27,7 @@ When you unlock your screen, a systemd user service detects the unlock event via
 ## Install
 
 ```bash
-git clone https://github.com/nitd27/frames-unlock-animation
+git clone https://github.com/nitd27/Ubuntu-unlock-animation
 cd frames-unlock-animation
 ./install.sh
 ```
