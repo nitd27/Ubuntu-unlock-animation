@@ -28,7 +28,7 @@ When you unlock your screen, a systemd user service detects the unlock event via
 
 ```bash
 git clone https://github.com/nitd27/Ubuntu-unlock-animation
-cd frames-unlock-animation
+cd Ubuntu-unlock-animation
 ./install.sh
 ```
 
@@ -87,8 +87,8 @@ frames/
 ├── Miku-eye-frames/
 │   ├── frame-001.jpg
 │   └── ...
-Frames_Unlock_Animation.py
-frames-unlock-animation.service
+Ubuntu_Unlock_Animation.py
+Ubuntu-unlock-animation.service
 install.sh
 run_animation.sh
 uninstall.sh

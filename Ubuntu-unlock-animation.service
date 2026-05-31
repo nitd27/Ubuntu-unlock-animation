@@ -2,7 +2,7 @@
 Description=Frames Unlock Animation Listener
 After=graphical-session.target
 [Service]
-ExecStart=/bin/bash %h/.local/share/frames-unlock-animation/run_animation.sh 
+ExecStart=/bin/bash %h/.local/share/Ubuntu-unlock-animation/run_animation.sh 
 Restart=always
 [Install]
 WantedBy=default.target

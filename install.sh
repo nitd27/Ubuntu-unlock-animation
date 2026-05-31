@@ -2,10 +2,10 @@
 
 set -e
 
-APP_NAME="Frames Unlock Animation"
-INSTALL_DIR="$HOME/.local/share/frames-unlock-animation"
+APP_NAME="Ubuntu Unlock Animation"
+INSTALL_DIR="$HOME/.local/share/Ubuntu-unlock-animation"
 SERVICE_DIR="$HOME/.config/systemd/user"
-SERVICE_NAME="frames-unlock-animation.service"
+SERVICE_NAME="Ubuntu-unlock-animation.service"
 
 echo "Installing $APP_NAME..."
 
@@ -19,7 +19,7 @@ cp run_animation.sh "$INSTALL_DIR/"
 
 echo "Installing systemd user service..."
 mkdir -p "$SERVICE_DIR"
-cp frames-unlock-animation.service "$SERVICE_DIR/"
+cp Ubuntu-unlock-animation.service "$SERVICE_DIR/"
 
 echo "Reloading systemd..."
 systemctl --user daemon-reload
