@@ -14,7 +14,7 @@ mkdir -p "$INSTALL_DIR"
 
 echo "Copying program files..."
 cp -r frames "$INSTALL_DIR/"
-cp Frames_Unlock_Animation.py "$INSTALL_DIR/"
+cp Ubuntu_Unlock_Animation.py "$INSTALL_DIR/"
 cp run_animation.sh "$INSTALL_DIR/"
 
 echo "Installing systemd user service..."
