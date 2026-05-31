@@ -46,7 +46,7 @@ Lock and unlock your screen to test.
 
 ## Change animation
 
-Open `Frames_Unlock_Animation.py` and edit this line:
+Open `Ubuntu_Unlock_Animation.py` and edit this line:
 
 ```python
 FRAME_DIR = os.path.join(os.path.dirname(__file__), "frames", "Miku-eye-frames")
@@ -70,7 +70,7 @@ More coming soon.
 
 ## Adjust speed
 
-In `Frames_Unlock_Animation.py`, change this value:
+In `Ubuntu_Unlock_Animation.py`, change this value:
 
 ```python
 FRAME_DELAY = 0.09  # seconds per frame

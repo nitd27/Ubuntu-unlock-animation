@@ -18,7 +18,7 @@ touch "$LISTENER_LOCK"
 trap "rm -f $LISTENER_LOCK" EXIT
 
 
-ANIMATION_SCRIPT="$SCRIPT_DIR/Frames_Unlock_Animation.py"
+ANIMATION_SCRIPT="$SCRIPT_DIR/Ubuntu_Unlock_Animation.py"
 LOCKFILE="/tmp/unlock_animation.lock"
 
 
